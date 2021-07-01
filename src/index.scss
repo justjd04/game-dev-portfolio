@@ -1,0 +1,18 @@
+$darkPurp: #703D57 !important;
+$medPurp: #957186 !important;
+$lightPurp: #D9B8C4 !important;
+$medBlue:#7FB7BE !important;
+$lightBlue: #D3F3EE !important;
+$hFont: 'Oswald', sans-serif !important;
+$pFont: 'Karla', sans-serif !important;
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.text-title{
+    font-family: $pFont;
+    letter-spacing: 0.3rem;
+    text-transform: uppercase;
+}

@@ -1,0 +1,102 @@
+#header{
+    position: relative;
+    display: flex;
+    background: url(https://i.imgur.com/tVPAjh2.jpeg);
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    overflow:hidden;
+  }
+
+  .header-container {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    }
+   
+    .expgame {
+        color: #ffffff;
+        font-size: 1.2rem;
+        font-weight: bolder;
+        z-index: 10;
+    }
+
+    .expgame:hover {
+      transform: scale(1.01);
+    }
+
+    .sologame {
+        color: #ffffff;
+        font-size: 3.5rem;
+        font-weight: bolder;
+        z-index: 10;
+      }
+
+    .sologame:hover {
+      transform: scale(1.01);
+    }
+
+    .icn {
+      position: absolute;
+    }
+
+    .icn:hover {
+      transform: scale(1.02);
+    }
+
+    .icon1 {
+      top: 20%;
+      left: 5%;
+    }
+
+    .icon2 {
+      top: 30%;
+      left: 15%;
+    }
+
+    .icon3 {
+      top: 25%;
+      left: 75%;
+    }
+
+    .icon4 {
+      top: 25%;
+      left: 55%;
+    }
+
+    .icon5 {
+      top: 40%;
+      left: 70%;
+    }
+
+    .icon6 {
+      top: 70%;
+      left: 50%;
+    }
+
+    .icon7 {
+      top: 55%;
+      left: 25%;
+    }
+
+    .icon8 {
+      top: 55%;
+      left: 10%;
+    }
+
+    .icon9 {
+      top: 75%;
+      left: 25%;
+    }
+
+    .icon10 {
+      top: 75%;
+      left: 10%;
+    }
+
+    
+
+  
